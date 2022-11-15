@@ -1,5 +1,5 @@
 import requests
-from googletrans import Translator, constants
+from googletrans import Translator
 from bs4 import BeautifulSoup
 from tkinter import *
 
