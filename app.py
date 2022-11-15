@@ -1,6 +1,5 @@
 import requests
 from googletrans import Translator, constants
-from pprint import pprint
 from bs4 import BeautifulSoup
 from tkinter import *
 
